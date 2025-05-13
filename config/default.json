@@ -1,0 +1,15 @@
+{
+    "mongoURI": "mongodb+srv://rpaianju15:7q7vkb9%21iYY6nFQ@jobboard.f9hy8x8.mongodb.net/?retryWrites=true&w=majority&appName=JobBoard",
+    "jwtSecret": "3227da8963c36d7da7be78b60123b65c1b9c2c0a6b1d17110f73bb8b832192d8c425ff4555a9aae65f6e71dd0f82cf071edc04be894f002b91681c4d3901535f",
+    "jwtExpiration": "24h",
+    "emailConfig": {
+      "host": "smtp.gmail.com",
+      "port": 587,
+      "secure": false,
+      "auth": {
+        "user": "your-email@gmail.com",
+        "pass": "your-email-password"
+      }
+    }
+  }
+  
